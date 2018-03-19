@@ -1,0 +1,28 @@
+.facet-list {
+  padding: 10px;
+}
+
+.results {
+  padding: 10px;
+}
+
+.cptn-pdng {
+  padding-top: 25px;
+}
+
+.purchase-buttons {
+  padding-top: 20px;
+}
+
+@media (min-width: 991px) {
+    .facet-list {
+        /* Tablet/Desktop styles (md, lg) */
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    .results {
+      padding-top: 10px;
+      padding-right: 10px;
+    }
+}
